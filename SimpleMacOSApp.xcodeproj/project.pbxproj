@@ -60,6 +60,8 @@
 		1FF9FDA025CDB28F0056D2F8 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF9FD5425CD89AE0056D2F8 /* CircleImage.swift */; };
 		1FF9FDA125CDB28F0056D2F8 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF9FD4425CD897E0056D2F8 /* LandmarkRow.swift */; };
 		1FF9FDA525CDB3830056D2F8 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF9FDA425CDB3830056D2F8 /* LandmarkDetail.swift */; };
+		1FF9FDA925CDBC470056D2F8 /* LandmarkCommands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF9FDA825CDBC470056D2F8 /* LandmarkCommands.swift */; };
+		1FF9FDAC25CDBC560056D2F8 /* LandmarkCommands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF9FDA825CDBC470056D2F8 /* LandmarkCommands.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -108,6 +110,7 @@
 		1FF9FD8C25CD8B710056D2F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1FF9FD8D25CD8B710056D2F8 /* MacLandmark.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MacLandmark.entitlements; sourceTree = "<group>"; };
 		1FF9FDA425CDB3830056D2F8 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
+		1FF9FDA825CDBC470056D2F8 /* LandmarkCommands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkCommands.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -287,6 +290,7 @@
 				1FF9FD8D25CD8B710056D2F8 /* MacLandmark.entitlements */,
 				1FF9FD8925CD8B700056D2F8 /* Preview Content */,
 				1FF9FDA425CDB3830056D2F8 /* LandmarkDetail.swift */,
+				1FF9FDA825CDBC470056D2F8 /* LandmarkCommands.swift */,
 			);
 			path = MacLandmark;
 			sourceTree = "<group>";
@@ -405,6 +409,7 @@
 			files = (
 				1FF9FD3625CD89470056D2F8 /* ProfileHost.swift in Sources */,
 				1FF9FD5825CD89AE0056D2F8 /* FavoriteButton.swift in Sources */,
+				1FF9FDAC25CDBC560056D2F8 /* LandmarkCommands.swift in Sources */,
 				1FF9FD5D25CD89C30056D2F8 /* CategoryRow.swift in Sources */,
 				1FF9FD6725CD89D50056D2F8 /* Badge.swift in Sources */,
 				1FF9FD2825CD88E20056D2F8 /* ContentView.swift in Sources */,
@@ -446,6 +451,7 @@
 				1FF9FD8625CD8B6F0056D2F8 /* ContentView.swift in Sources */,
 				1FF9FD9925CDB28F0056D2F8 /* MapView.swift in Sources */,
 				1FF9FD9E25CDB28F0056D2F8 /* LandmarkList.swift in Sources */,
+				1FF9FDA925CDBC470056D2F8 /* LandmarkCommands.swift in Sources */,
 				1FF9FDA525CDB3830056D2F8 /* LandmarkDetail.swift in Sources */,
 				1FF9FD9825CDB28F0056D2F8 /* Profile.swift in Sources */,
 				1FF9FD9F25CDB28F0056D2F8 /* Landmark.swift in Sources */,
