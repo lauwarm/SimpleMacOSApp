@@ -62,6 +62,7 @@
 		1FF9FDA525CDB3830056D2F8 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF9FDA425CDB3830056D2F8 /* LandmarkDetail.swift */; };
 		1FF9FDA925CDBC470056D2F8 /* LandmarkCommands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF9FDA825CDBC470056D2F8 /* LandmarkCommands.swift */; };
 		1FF9FDAC25CDBC560056D2F8 /* LandmarkCommands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF9FDA825CDBC470056D2F8 /* LandmarkCommands.swift */; };
+		1FF9FDB025CDC3CC0056D2F8 /* LandmarkSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF9FDAF25CDC3CC0056D2F8 /* LandmarkSettings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -111,6 +112,7 @@
 		1FF9FD8D25CD8B710056D2F8 /* MacLandmark.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MacLandmark.entitlements; sourceTree = "<group>"; };
 		1FF9FDA425CDB3830056D2F8 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		1FF9FDA825CDBC470056D2F8 /* LandmarkCommands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkCommands.swift; sourceTree = "<group>"; };
+		1FF9FDAF25CDC3CC0056D2F8 /* LandmarkSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkSettings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -291,6 +293,7 @@
 				1FF9FD8925CD8B700056D2F8 /* Preview Content */,
 				1FF9FDA425CDB3830056D2F8 /* LandmarkDetail.swift */,
 				1FF9FDA825CDBC470056D2F8 /* LandmarkCommands.swift */,
+				1FF9FDAF25CDC3CC0056D2F8 /* LandmarkSettings.swift */,
 			);
 			path = MacLandmark;
 			sourceTree = "<group>";
@@ -449,6 +452,7 @@
 			files = (
 				1FF9FD9C25CDB28F0056D2F8 /* Hike.swift in Sources */,
 				1FF9FD8625CD8B6F0056D2F8 /* ContentView.swift in Sources */,
+				1FF9FDB025CDC3CC0056D2F8 /* LandmarkSettings.swift in Sources */,
 				1FF9FD9925CDB28F0056D2F8 /* MapView.swift in Sources */,
 				1FF9FD9E25CDB28F0056D2F8 /* LandmarkList.swift in Sources */,
 				1FF9FDA925CDBC470056D2F8 /* LandmarkCommands.swift in Sources */,
