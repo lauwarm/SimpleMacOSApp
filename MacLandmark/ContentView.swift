@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  SimpleMacOSApp
+//  MacLandmark
 //
 //  Created by Fabian on 05.02.21.
 //
